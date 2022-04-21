@@ -49,11 +49,11 @@
                     </div>
                     <!--TotalVolume-->
                     <div class="col-3 py-2 text-center overflow-hidden">
-                        <p >@item.TotalVolume</p>
+                        <p >$@GlobalMethods.PriceCheck(item.TotalVolume)</p>
                     </div>
                     <!--MarketCap-->
                     <div class="col-4 py-2 text-center overflow-hidden">
-                        <p>@item.MarketCap</p>
+                        <p>$@GlobalMethods.PriceCheck(item.MarketCap)</p>
                     </div>
                 </a>
             </div>
