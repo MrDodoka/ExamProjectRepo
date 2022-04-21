@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HC/zyx+rDVzUTIluSVAxshfP07YOra7oSZLaDbFVGdy1Mi/y8xQvDqpjQBDrEog6ajFnugYCtKbu1abT7bPHvg==",
+  "dgSpecHash": "dv3CbyPXuZ48xjIovO6AjKGR6Cm0xRPFeaqrJAlWX+KAK+sNvRz94ByyCVBu7wquPCYsALOs6EfWiZ0OtXiziQ==",
   "success": true,
-  "projectFilePath": "D:\\Work\\School\\Software develpoment\\ExamProject\\ExamProjectWeb\\ExamProjectWeb\\ExamProjectWeb.csproj",
+  "projectFilePath": "D:\\Work\\School\\Software develpoment\\ExamProject\\ExamProjectRepo\\ExamProjectRepo\\ExamProjectWeb\\ExamProjectWeb\\ExamProjectWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\boben\\.nuget\\packages\\coingeckoasyncapi\\1.5.5\\coingeckoasyncapi.1.5.5.nupkg.sha512",
     "C:\\Users\\boben\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

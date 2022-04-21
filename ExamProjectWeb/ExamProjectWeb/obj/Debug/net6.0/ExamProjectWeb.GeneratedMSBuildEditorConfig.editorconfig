@@ -8,65 +8,65 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ExamProjectWeb
 build_property.RootNamespace = ExamProjectWeb
-build_property.ProjectDir = D:\Work\School\Software develpoment\ExamProject\ExamProjectWeb\ExamProjectWeb\
+build_property.ProjectDir = D:\Work\School\Software develpoment\ExamProject\ExamProjectRepo\ExamProjectRepo\ExamProjectWeb\ExamProjectWeb\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Work\School\Software develpoment\ExamProject\ExamProjectWeb\ExamProjectWeb
+build_property.MSBuildProjectDirectory = D:\Work\School\Software develpoment\ExamProject\ExamProjectRepo\ExamProjectRepo\ExamProjectWeb\ExamProjectWeb
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Work/School/Software develpoment/ExamProject/ExamProjectWeb/ExamProjectWeb/Pages/_ValidationScriptsPartial.cshtml]
+[D:/Work/School/Software develpoment/ExamProject/ExamProjectRepo/ExamProjectRepo/ExamProjectWeb/ExamProjectWeb/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Work/School/Software develpoment/ExamProject/ExamProjectWeb/ExamProjectWeb/Views/Accounts/Account.cshtml]
+[D:/Work/School/Software develpoment/ExamProject/ExamProjectRepo/ExamProjectRepo/ExamProjectWeb/ExamProjectWeb/Views/Accounts/Account.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcQWNjb3VudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Work/School/Software develpoment/ExamProject/ExamProjectWeb/ExamProjectWeb/Views/Accounts/Delete.cshtml]
+[D:/Work/School/Software develpoment/ExamProject/ExamProjectRepo/ExamProjectRepo/ExamProjectWeb/ExamProjectWeb/Views/Accounts/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Work/School/Software develpoment/ExamProject/ExamProjectWeb/ExamProjectWeb/Views/Accounts/Edit.cshtml]
+[D:/Work/School/Software develpoment/ExamProject/ExamProjectRepo/ExamProjectRepo/ExamProjectWeb/ExamProjectWeb/Views/Accounts/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Work/School/Software develpoment/ExamProject/ExamProjectWeb/ExamProjectWeb/Views/Accounts/SignIn.cshtml]
+[D:/Work/School/Software develpoment/ExamProject/ExamProjectRepo/ExamProjectRepo/ExamProjectWeb/ExamProjectWeb/Views/Accounts/SignIn.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcU2lnbkluLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Work/School/Software develpoment/ExamProject/ExamProjectWeb/ExamProjectWeb/Views/Accounts/SignUp.cshtml]
+[D:/Work/School/Software develpoment/ExamProject/ExamProjectRepo/ExamProjectRepo/ExamProjectWeb/ExamProjectWeb/Views/Accounts/SignUp.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcU2lnblVwLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Work/School/Software develpoment/ExamProject/ExamProjectWeb/ExamProjectWeb/Views/CoinPage/CoinPage.cshtml]
+[D:/Work/School/Software develpoment/ExamProject/ExamProjectRepo/ExamProjectRepo/ExamProjectWeb/ExamProjectWeb/Views/CoinPage/CoinPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29pblBhZ2VcQ29pblBhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Work/School/Software develpoment/ExamProject/ExamProjectWeb/ExamProjectWeb/Views/CoinPage/Coins.cshtml]
+[D:/Work/School/Software develpoment/ExamProject/ExamProjectRepo/ExamProjectRepo/ExamProjectWeb/ExamProjectWeb/Views/CoinPage/Coins.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29pblBhZ2VcQ29pbnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Work/School/Software develpoment/ExamProject/ExamProjectWeb/ExamProjectWeb/Views/Home/Index.cshtml]
+[D:/Work/School/Software develpoment/ExamProject/ExamProjectRepo/ExamProjectRepo/ExamProjectWeb/ExamProjectWeb/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Work/School/Software develpoment/ExamProject/ExamProjectWeb/ExamProjectWeb/Views/Shared/_Notification.cshtml]
+[D:/Work/School/Software develpoment/ExamProject/ExamProjectRepo/ExamProjectRepo/ExamProjectWeb/ExamProjectWeb/Views/Shared/_Notification.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Work/School/Software develpoment/ExamProject/ExamProjectWeb/ExamProjectWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Work/School/Software develpoment/ExamProject/ExamProjectRepo/ExamProjectRepo/ExamProjectWeb/ExamProjectWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Work/School/Software develpoment/ExamProject/ExamProjectWeb/ExamProjectWeb/Views/_ViewImports.cshtml]
+[D:/Work/School/Software develpoment/ExamProject/ExamProjectRepo/ExamProjectRepo/ExamProjectWeb/ExamProjectWeb/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Work/School/Software develpoment/ExamProject/ExamProjectWeb/ExamProjectWeb/Views/_ViewStart.cshtml]
+[D:/Work/School/Software develpoment/ExamProject/ExamProjectRepo/ExamProjectRepo/ExamProjectWeb/ExamProjectWeb/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Work/School/Software develpoment/ExamProject/ExamProjectWeb/ExamProjectWeb/Views/Shared/_Layout.cshtml]
+[D:/Work/School/Software develpoment/ExamProject/ExamProjectRepo/ExamProjectRepo/ExamProjectWeb/ExamProjectWeb/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-f8g1wnkay5

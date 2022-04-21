@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Work\\School\\Software develpoment\\ExamProject\\ExamProjectWeb\\ExamProjectWeb\\ExamProjectWeb.csproj": {}
+    "D:\\Work\\School\\Software develpoment\\ExamProject\\ExamProjectRepo\\ExamProjectRepo\\ExamProjectWeb\\ExamProjectWeb\\ExamProjectWeb.csproj": {}
   },
   "projects": {
-    "D:\\Work\\School\\Software develpoment\\ExamProject\\ExamProjectWeb\\ExamProjectWeb\\ExamProjectWeb.csproj": {
+    "D:\\Work\\School\\Software develpoment\\ExamProject\\ExamProjectRepo\\ExamProjectRepo\\ExamProjectWeb\\ExamProjectWeb\\ExamProjectWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Work\\School\\Software develpoment\\ExamProject\\ExamProjectWeb\\ExamProjectWeb\\ExamProjectWeb.csproj",
+        "projectUniqueName": "D:\\Work\\School\\Software develpoment\\ExamProject\\ExamProjectRepo\\ExamProjectRepo\\ExamProjectWeb\\ExamProjectWeb\\ExamProjectWeb.csproj",
         "projectName": "ExamProjectWeb",
-        "projectPath": "D:\\Work\\School\\Software develpoment\\ExamProject\\ExamProjectWeb\\ExamProjectWeb\\ExamProjectWeb.csproj",
+        "projectPath": "D:\\Work\\School\\Software develpoment\\ExamProject\\ExamProjectRepo\\ExamProjectRepo\\ExamProjectWeb\\ExamProjectWeb\\ExamProjectWeb.csproj",
         "packagesPath": "C:\\Users\\boben\\.nuget\\packages\\",
-        "outputPath": "D:\\Work\\School\\Software develpoment\\ExamProject\\ExamProjectWeb\\ExamProjectWeb\\obj\\",
+        "outputPath": "D:\\Work\\School\\Software develpoment\\ExamProject\\ExamProjectRepo\\ExamProjectRepo\\ExamProjectWeb\\ExamProjectWeb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
