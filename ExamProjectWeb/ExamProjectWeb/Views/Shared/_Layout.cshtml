@@ -54,6 +54,10 @@
                     <li class="nav-link">
                         <a class="nav-link" asp-route="HomePage">Home</a>
                     </li>
+                    <!--Nav menu items-->
+                    <li class="nav-link">
+                        <a class="nav-link" asp-route="coinList">Top 100</a>
+                    </li>
                     <!--If logged in-->
                     @if (Context.Session.GetString("userName") != null)
                     {
