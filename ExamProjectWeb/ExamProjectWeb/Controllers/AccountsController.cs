@@ -26,7 +26,6 @@ namespace ExamProject_Net6_Test.Controllers
         }
 
         //Setting up the post version of the Sign up page
-        //[ValidateAntiForgeryToken]
         [HttpPost, Route("SignUp", Name = "SignUpPage")]
         public IActionResult SignUp(UserRegistrationModel obj)
         {

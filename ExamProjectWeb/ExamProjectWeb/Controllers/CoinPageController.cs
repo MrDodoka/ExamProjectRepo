@@ -21,6 +21,7 @@ namespace ExamProject_Net6_Test.Controllers
         {
             return View(await GetTopNCoin(coin));
         }
+
         //Getting the top 100 coin {work in progress}
         public async Task<List<CoinMarkets>> GetHundredCoins()
         {
